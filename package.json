@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/boost-rnd/lotp-sandbox-npm-dep/issues"
   },
-  "homepage": "https://github.com/boost-rnd/lotp-sandbox-npm-dep#readme"
+  "homepage": "https://github.com/boost-rnd/lotp-sandbox-npm-dep#readme",
+  "publishConfig": {
+    "@boost-rnd:registry": "https://npm.pkg.github.com"
+  }
 }
