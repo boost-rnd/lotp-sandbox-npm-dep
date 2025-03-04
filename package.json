@@ -1,0 +1,19 @@
+{
+  "name": "lotp-sandbox-npm-dep",
+  "version": "1.0.0",
+  "description": "Package containing a npm RCE to LOTP-sandbox npm dependancy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boost-rnd/lotp-sandbox-npm-dep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boost-rnd/lotp-sandbox-npm-dep/issues"
+  },
+  "homepage": "https://github.com/boost-rnd/lotp-sandbox-npm-dep#readme"
+}
